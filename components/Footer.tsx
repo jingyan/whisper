@@ -21,19 +21,6 @@ export const Footer = () => {
           Together.ai
         </a>
       </p>
-
-      <div className="flex flex-row gap-2">
-        <a
-          href="https://github.com/nutlope/whisper-app"
-          target="_blank"
-          rel="noopenner"
-        >
-          <img src="/github.svg" alt="GitHub" className="h-5 w-5" />
-        </a>
-        <a href="https://x.com/nutlope" target="_blank" rel="noopenner">
-          <img src="/twitter.svg" alt="Twitter" className="h-5 w-5" />
-        </a>
-      </div>
     </div>
   );
 };
