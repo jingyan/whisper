@@ -23,21 +23,6 @@ export function LandingPage() {
       {/* Main Content */}
       <main className="container mx-auto px-6 py-16 text-center">
         <div className="flex flex-col items-center">
-          <a
-            href="https://togetherai.link/"
-            rel="noopener noreferrer"
-            target="_blank"
-            className="w-[225px] h-[30px] relative rounded-[100px] bg-gradient-to-r from-neutral-100 to-white border border-gray-200 flex items-center justify-center gap-1 mb-6"
-          >
-            <span className="text-sm text-left text-[#4a5565]">
-              Made & powered by{" "}
-            </span>
-            <img
-              src="/togetherai.svg"
-              className="min-w-[70px] min-h-[11px] mt-0.5"
-            />
-          </a>
-
           <h1 className="text-[40px] md:text-[60px] font-medium text-center text-[#101828] mb-6 leading-tight">
             Capture Your
             <br />
